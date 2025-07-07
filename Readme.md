@@ -39,7 +39,7 @@ Descreva como você organizaria um banco de dados que precisa , no inicio, de:
 
 <img src ="././public/assets/images/doc.png" alt="Descrição da Imagem" height="45">
 
-[✨ **Clique aqui para saber mais da documentação** ✨](https://github.com/RaizerTechDev/tarefaStackX-organizacao-bd/blob/master/Documentation.md)
+[✨ **Clique aqui para saber mais da documentação** ✨](https://github.com/rodrigogoncalv/tarefaStackX-organizacao-bd/blob/master/Documentation.md)
 
 <br>
 
